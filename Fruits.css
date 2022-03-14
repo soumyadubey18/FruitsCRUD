@@ -1,0 +1,36 @@
+h1 {
+    text-align: center;
+    padding: 23px;
+    background-color: rgb(207, 146, 235);
+    color: rgb(24, 23, 23);
+  }
+
+  .addForm
+  {
+      border: 3px solid black;
+      padding: 20px;
+      width: 350px;
+      flex: 1;
+      margin: 4px;
+  }
+
+  input,select
+  {
+      padding: 10px;
+      margin-top: 10px;
+  }
+
+  #conatiner
+  {
+    display: flex;
+  }
+  
+  table,th,td
+  {
+      border: 1px solid rgb(19, 17, 17);
+  }
+  th,td
+  {
+      margin: 5px;
+      padding: 5px;
+  }
